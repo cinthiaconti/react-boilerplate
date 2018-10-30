@@ -1,9 +1,10 @@
 # Reat-Boilerplate
-This is my react boilerplate
+This is a react boilerplate
 
 ## Setup
 
+```
 npm install
 npm run build
 npm start 
-
+```
